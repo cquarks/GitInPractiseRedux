@@ -1,1 +1,3 @@
-Initiales File, keine weieteren Änderungen
+Git In Practice
+
+TODO: write book
