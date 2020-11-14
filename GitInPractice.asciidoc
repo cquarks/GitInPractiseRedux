@@ -1,4 +1,4 @@
-Git In Practice
+Git In Practice (Test aus dem GitInParticeReduxTest)
 
 Chapter 1
 Git In Practise makes Git In Perfect!
