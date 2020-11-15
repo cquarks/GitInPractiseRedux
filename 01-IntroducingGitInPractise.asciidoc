@@ -1,5 +1,9 @@
 Git In Practice (Test aus dem GitInParticeReduxTest)
 
+Und hier eine neue Einfühung für den MergeConflikt
+
+---------------------------------------
+
 Chapter 1
 Git In Practise makes Git In Perfect!
  Joke rejected by editor
