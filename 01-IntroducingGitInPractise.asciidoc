@@ -4,6 +4,8 @@ Chapter 1
 Git In Practise makes Git In Perfect!
  Joke rejected by editor
 
+----------------------------------------
+
 Chapter 2
 
 Ein bisschen bla bla.
