@@ -1,3 +1,4 @@
 Git In Practice (Test aus dem GitInParticeReduxTest)
 
 Only the introduction remains
+Und mehr content für die cherry-funktion
