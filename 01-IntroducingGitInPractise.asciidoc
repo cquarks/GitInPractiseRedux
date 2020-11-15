@@ -1,3 +1,4 @@
 Chapter 1
 Git In Practise makes Git In Perfect!
  Joke rejected by editor
+ technique 43 Rebasing
